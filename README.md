@@ -5,8 +5,10 @@ Hi there 👋, I’m Nihal N Maganur (@NIHAL-N-M)
 
 🤝 Open to: AI-powered platforms, Fraud Detection Systems, Scalable Web Apps
 
-📫 Contact: nihalmaganur@gmail.com | LinkedIn | Portfolio
+📫
+  Contact: nihalmaganur@gmail.com 
+  LinkedIn : https://www.linkedin.com/in/nihal-maganur-23b73a295/
+  Portfolio : nihalmaganur.netlify.app
 
 😄 Pronouns: He/Him
 
-⚡ Fun Fact: I’ve turned hackathon prototypes into real, working products.
