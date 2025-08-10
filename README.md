@@ -8,7 +8,7 @@ Hi there 👋, I’m Nihal N Maganur (@NIHAL-N-M)
 📫
   Contact: nihalmaganur@gmail.com 
   LinkedIn : https://www.linkedin.com/in/nihal-maganur-23b73a295/
-  Portfolio : nihalmaganur.netlify.app
+  Portfolio : [nihalmaganur.netlify.app](https://nihalmaganur.netlify.app/)
 
 😄 Pronouns: He/Him
 
