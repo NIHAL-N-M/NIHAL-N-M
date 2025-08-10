@@ -1,4 +1,5 @@
 Hi there 👋, I’m Nihal N Maganur (@NIHAL-N-M)
+
 💡 Interests: Artificial Intelligence, MERN Stack, Real-Time Problem-Solving
 
 📚 Learning: Advanced AI/ML, API Development, Cloud Deployment
